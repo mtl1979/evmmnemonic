@@ -1,0 +1,20 @@
+{
+  "name": "evmmnemonic",
+  "description": "Convert EVM mnemonic phrase to private key",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "authors": "Mika Lindqvist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtl1979/evmmnemonic"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "ethers": ">=6.2.3"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
